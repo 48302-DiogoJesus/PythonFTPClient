@@ -1,5 +1,5 @@
 # Python-FTP-Client
-An Intuitive FTP CLient written in Python
+An Intuitive FTP Client written in Python
 
 ## Features
 * Login/Logout capabilities
