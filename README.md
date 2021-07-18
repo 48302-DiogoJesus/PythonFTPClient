@@ -18,9 +18,9 @@ Note: Code written in Python 3.9
 pip install Path
 ```
 
-All the other libraries are installed by default with a normal Python installation:
+Note: All the other libraries are installed by default with a normal Python installation
 
-#### Libraries Used
+### Libraries Used
 
 * sys
 * os
@@ -31,5 +31,16 @@ All the other libraries are installed by default with a normal Python installati
 
 ## Usage
 
+### Run the Program
 
+```
+python jftp-client.py 'server_ip' 'server_port' (default: 21)
+```
+
+### User/Password Authentication
+
+```
+connect 'user_name' 'password'
+```
+#### Authentication Example
 ![alt text](https://github.com/j3z-repos/Python-FTP-Client/blob/main/Commands.png)
