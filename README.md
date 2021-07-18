@@ -42,5 +42,5 @@ python jftp-client.py 'server_ip' 'server_port' (default: 21)
 ```
 connect 'user_name' 'password'
 ```
-#### Authentication Example
-![alt text](https://github.com/j3z-repos/Python-FTP-Client/blob/main/Commands.png)
+## Short Usage Demonstration
+![alt text](https://github.com/j3z-repos/JFTP-Python-FTP-Client/blob/main/jftp-client-demo.png)
