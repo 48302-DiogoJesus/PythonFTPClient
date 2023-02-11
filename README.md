@@ -34,7 +34,7 @@ Note: All the other libraries are installed by default with a normal Python inst
 ### Run the Program
 
 ```
-python jftp-client.py 'server_ip' 'server_port' (default: 21)
+python ftp-client.py 'server_ip' 'server_port' (default: 21)
 ```
 
 ### User/Password Authentication
